@@ -1,4 +1,4 @@
-![mahua](https://raw.githubusercontent.com/varfate/Writing/master/demo.png)
+![mahua](https://github.com/fanghongxing/Writing/blob/master/demo.png?raw=true)
 ## Writing
 Writing是一款简单明了的Typecho主题.
 
